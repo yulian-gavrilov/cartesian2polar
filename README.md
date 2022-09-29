@@ -1,3 +1,3 @@
 # cartesian2polar
 
-A small script to convert Cartesian coordinates to Polar for a particular point on a map
+A small script to translate latitude and longitude into "polar coordinates" around a point
